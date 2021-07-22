@@ -1,2 +1,2 @@
-# aofs
-AOFS：File stream load authentication tool based on identity authentication.
+# iars
+AORS: Ratify streaming load tool based on identity authentication.
